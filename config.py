@@ -1,24 +1,26 @@
 import os
 from os import getenv
 # ---------------R---------------------------------
-API_ID = int(os.environ.get("API_ID", "222868689"))
+API_ID = int(os.environ.get("API_ID", "25437216"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH", "0c9262bdjhfdshdvdshvschb7b447ffd8e38f1e4d")
+API_HASH = os.environ.get("API_HASH", "490ad5f5ed36ce93496c60ede5712081")
 # ----------------D--------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8392338221:AAFaHdpcsZo1fnuhSdfnhoKh0NxqIksKsIM")
 # -----------------A-------------------------------
-BOT_USERNAME = os.environ.get("Rajasthani_king_bot")
+BOT_USERNAME = os.environ.get("Extractorazazel89768bot")
 # ------------------X------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7438818824"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "684325515"))
 # ------------------X------------------------------
-CREATOR_ID = int(os.environ.get("CREATOR_ID", "7438818824"))
-LOG_CHANNEL_ID = int(os.environ.get("LOG_CHANNEL_ID", "-1002546086874"))
+CREATOR_ID = int(os.environ.get("CREATOR_ID", "684325515"))
+LOG_CHANNEL_ID = int(os.environ.get("LOG_CHANNEL_ID", "-1002559963953"))
 
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7438818824").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "684325515").split()))
 # ------------------------------------------------
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002546086874"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002559963953"))
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "")
+MONGO_URL = os.environ.get("MONGO_URL", "684325515
+
+mongodb+srv://ashusharma62309: hgcd9jxa5pYPisGl@cluster0.eyydm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002589673708"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002559963953"))
